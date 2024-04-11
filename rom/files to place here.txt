@@ -1,0 +1,7 @@
+add the following files to this directory:
+
+(the file names must match exactly)
+
+bn6f.gba (MegaMan Battle Network 6 Falzar GBA ROM, English version)
+
+bn6g.gba (MegaMan Battle Network 6 Gregar GBA ROM, English version)
